@@ -1,0 +1,110 @@
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+}
+.highlight{
+    color: #2980B9;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#36D1DC, #5B86E5);
+    padding: 20px 35px;
+    border-radius: 10px;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    padding-bottom: 100px;
+    height: 500px;
+}
+.project{
+    text-align: center;
+}
+.part{
+    width: 26%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px ;
+    height: 80%;
+}
+.part img{
+    width: 100%;
+}
+.inquiry{
+    background-image: url("images/Group_33094_1.png");
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    
+}
+.center{
+    text-align: center;
+    color: white;
+    padding: 0px 0px 30px 0px;
+   position: absolute;
+   left: 15%;
+   
+    
+}
+.chat{
+    text-align: center;
+    position: absolute;
+    left: 75%;
+    
+}
+.button{
+    padding: 5%;
+}
+.stay{
+    color: dimgray;
+}
+.footer{
+    color: rgb(65, 63, 63);
+    text-align: center;
+
+}
